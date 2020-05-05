@@ -1,0 +1,6 @@
+SUBMIT YOUR TIMECARD!!!
+timestamp: 2020-05-05-08-19-32
+datetime: 2020-05-05 08:19:32.498480
+logs: 41
+End Log
+

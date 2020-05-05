@@ -1,0 +1,6 @@
+SUBMIT YOUR TIMECARD!!!
+timestamp: 2020-02-06-11-00-03
+datetime: 2020-02-06 11:00:03.696947
+logs: 26
+End Log
+
